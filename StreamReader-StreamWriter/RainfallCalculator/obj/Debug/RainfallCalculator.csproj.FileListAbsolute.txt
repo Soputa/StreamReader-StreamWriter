@@ -1,0 +1,10 @@
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\bin\Debug\RainfallCalculator.exe.config
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\bin\Debug\RainfallCalculator.exe
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\bin\Debug\RainfallCalculator.pdb
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\obj\Debug\RainfallCalculator.csproj.AssemblyReference.cache
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\obj\Debug\RainfallCalculator.Properties.Resources.resources
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\obj\Debug\RainfallCalculator.csproj.GenerateResource.cache
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\obj\Debug\RainfallCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\obj\Debug\RainfallCalculator.exe
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\obj\Debug\RainfallCalculator.pdb
+C:\Users\SirOp\source\repos\RainfallCalculator\RainfallCalculator\obj\Debug\RainfallCalculator.Rainfall_Calculator.resources
